@@ -15,8 +15,9 @@ Note : You can either open the `log.html` or the `report.html`. They both give t
 
 * Python 3.6.2 (or any version of Python 3.6)
 * pyenv (install this so the dependencies will just be stored in the virtual environment)
-* Chrome version 83.*
-* Firefox version 77.*
+* Chrome version 83.* 
+* Firefox version 77.* <br>
+Note : Versions of the browsers are strictly required because the automation might fail to run if not met.
 
 <h1>Installation</h1>
 
